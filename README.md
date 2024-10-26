@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @raynaharrisphd
-- 🌱 I’m currently teahcing biology, chemistry and yoga.
-- 👀 Visit my website for more information.
+👋 Hi, I’m @raynaharrisphd
+🌱 I’m currently teahcing biology, chemistry and yoga
+👀 Visit my website for more information
 
 <!---
 raynaharrisphd/raynaharrisphd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
