@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @raynaharrisphd
-- 🌱 I teach biology, chemistry and yoga
-- 👀 [www.raynaharris.com/](https://www.raynaharris.com/)
+👋 Hi, I’m @raynaharrisphd   
+🌱 I teach biology, chemistry and yoga   
+👀 [www.raynaharris.com/](https://www.raynaharris.com/)   
 
 <!---
 raynaharrisphd/raynaharrisphd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
